@@ -1,10 +1,28 @@
+# <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Logo" width="52" height="30" /> Repositório de Scripts Python <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Logo" width="52" height="30" />
 
-```markdown
-# Repositório de Scripts Python
+![Em desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+
+## 🌐 
+[![Portugués](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README.md)
+[![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_es.md)
+[![Inglés](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_en.md)
+[![Ruso](https://img.shields.io/badge/Russian-lightgrey)](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_ru.md)
+[![Chino](https://img.shields.io/badge/Chinese-red)](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_ch.md)
+[![Árabe](https://img.shields.io/badge/Arabic-orange)](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_ar.md)
+
+<details>
+<summary> 
+  <h2>
+    Sobre o Repositório
+  </h2>
+</summary>
 
 Este repositório contém scripts Python em desenvolvimento. Atualmente, o repositório inclui um script que utiliza o Selenium WebDriver para interagir com páginas da web. 
 
-## Requisitos
+</details>
+
+<details>
+<summary><h2>Requisitos</h2></summary>
 
 Antes de rodar o script, você precisa ter alguns pré-requisitos instalados:
 
@@ -13,7 +31,10 @@ Antes de rodar o script, você precisa ter alguns pré-requisitos instalados:
 - [Google Chrome](https://www.google.com/chrome/) (ou outro navegador compatível com o Selenium WebDriver)
 - [ChromeDriver](https://sites.google.com/chromium.org/driver/) (se você não utilizar `webdriver_manager`)
 
-## Configuração do Ambiente
+</details>
+
+<details>
+<summary><h2>Configuração do Ambiente</h2></summary>
 
 1. **Clone o repositório:**
 
@@ -50,7 +71,10 @@ Antes de rodar o script, você precisa ter alguns pré-requisitos instalados:
    pip freeze > requirements.txt
    ```
 
-## Rodando o Script
+</details>
+
+<details>
+<summary><h2>Rodando o Script</h2></summary>
 
 1. **Execute o script Python:**
 
@@ -60,5 +84,12 @@ Antes de rodar o script, você precisa ter alguns pré-requisitos instalados:
 
    Certifique-se de ajustar o caminho do script conforme necessário.
 
-```
+</details>
+<details>
+<summary><h2>Outros projetos</h2></summary>
 
+-  [Restaurant Orders](https://github.com/SamuelRocha91/restaurantOrders)
+-  [Algorithms](https://github.com/SamuelRocha91/Algorithms)
+-  [Trybe is not google](https://github.com/SamuelRocha91/trybeIsNotGoogle)
+
+</details>
